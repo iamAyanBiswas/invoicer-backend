@@ -24,7 +24,7 @@ Invoicer is a full-stack invoice generator application that helps small business
 -  <b>Mongoose</b> is employed as an Object Data Modeling (ODM) .
 -  Authentication and authorization are managed with <b>JSON Web Token (JWT)</b>.
 -  The <b>Mongodb aggregation pipeline</b> is used for filtering data from database.
--  <b>Multer<b> is utilized for storing files .
+-  <b>Multer</b> is utilized for storing files .
 -  <b>Cloudinary</b> is utilized for storing files .
 -  Users will have access to a complete invoice generation history .
 -  Users will receive comprehensive tracking of their daily, weekly, and monthly sales .
