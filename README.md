@@ -3,7 +3,7 @@
 
 ## Description
 Invoicer is a full-stack invoice generator application that helps small businesses to track their sales . <br>
-Algo checkout <a href="https://github.com/iamAyanBiswas/invoicer-frontend">Invoicer-fontend</a>
+Algo checkout <a href="https://github.com/iamAyanBiswas/invoicer-frontend">Invoicer-frontend</a>
 
 ## Table of Contents
 - <a href="#Installation">Installation<a/>
