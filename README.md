@@ -6,7 +6,7 @@
 Invoicer is a full-stack invoice generator application that helps small businesses to track their sales .
 
 ## Table of Contents
-- #Installation
+- Installation
 - Features 
 - Usage
 - API Documentation
@@ -40,8 +40,8 @@ Provide a general description of how to use your backend. Include basic examples
 Document your API endpoints, request/response formats, and any authentication mechanisms. Consider using tools like Swagger or Postman for detailed API documentation.
 
 ### Example API Routes
-- `GET /api/users`: Get a list of users.
-- `POST /api/users`: Create a new user.
+- `POST /api/sign-up`: Create new user through sign-up process using <b>Email and Password </b>.
+- `POST /api/login`: Login user.
 
 ## Examples
 Include additional examples or use cases related to your backend. Show how to perform common tasks or interact with your API.
