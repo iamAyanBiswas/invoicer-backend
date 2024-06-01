@@ -7,13 +7,12 @@ Invoicer is a full-stack invoice generator application that helps small business
 
 ## Table of Contents
 - <a href="#Installation">Installation<a/>
-- Features 
-- Usage
-- API Documentation
-- Examples
-- Run
-- Contributing
-- License
+- <a href="#Features">Features<a/>
+- <a href="#API-Documentation">API-Documentation<a/>
+- <a href="#Examples">Examples<a/>
+- <a href="#Run">Run<a/>
+- <a href="#Contributing">Contributing<a/>
+- <a href="#License">License<a/>
 
 ## Installation
 1. Clone this repository: `git clone https://github.com/iamAyanBiswas/invoicer-backend.git`
@@ -36,7 +35,7 @@ Invoicer is a full-stack invoice generator application that helps small business
 ## Usage
 Provide a general description of how to use your backend. Include basic examples or code snippets.
 
-## API Documentation
+## API-Documentation
 Document your API endpoints, request/response formats, and any authentication mechanisms. Consider using tools like Swagger or Postman for detailed API documentation.
 
 ### Example API Routes
