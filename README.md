@@ -1,6 +1,5 @@
 #  Invoicer-Backend
 
-!License
 
 ## Description
 Invoicer is a full-stack invoice generator application that helps small businesses to track their sales .
@@ -40,7 +39,14 @@ Document your API endpoints, request/response formats, and any authentication me
 
 ### Example API Routes
 - `POST /api/sign-up`: Create new user through sign-up process using <b>Email and Password </b>.
-- `POST /api/login`: Login user.
+- `POST /api/login`: Login user using <b>Email and Password </b>.
+- `POST /api/views`: Update page views.
+- `POST /api/user/profile`: Complete User profile.
+- `POST /api//profile/request`: Get Profile data.
+- `POST /api/invoice-generator`: Submit invoice data.
+- `POST /api/invoice-generator/request`: Get invoice admin data.
+- `POST /api/history`: Get invoices historical data.
+- `POST /api/analytics`: Get full analytics data.
 
 ## Examples
 Include additional examples or use cases related to your backend. Show how to perform common tasks or interact with your API.
