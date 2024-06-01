@@ -23,10 +23,10 @@ npm install
 ```
 3. Set up environment variables.
 
-`process.env.PORT` ,  `process.env.DB` , `process.env.ADMIN` , `process.env.PASSWORD` <br>
-`process.env.CLOUDINARY_CLOUD_NAME` , `process.env.CLOUDINARY_API_KEY` , `process.env.CLOUDINARY_API_SECRET` <br>
-`process.env.JWT_ACCESS_TOKEN` , `process.env.JWT_ACCESS_TOKEN_EXPIRY=` <br>
-`process.env.JWT_REFRESH_TOKEN` , `process.env.JWT_REFRESH_TOKEN_EXPIRY`
+   `process.env.PORT` ,  `process.env.DB` , `process.env.ADMIN` , `process.env.PASSWORD` <br>
+   `process.env.CLOUDINARY_CLOUD_NAME` , `process.env.CLOUDINARY_API_KEY` , `process.env.CLOUDINARY_API_SECRET` <br>
+   `process.env.JWT_ACCESS_TOKEN` , `process.env.JWT_ACCESS_TOKEN_EXPIRY` <br>
+   `process.env.JWT_REFRESH_TOKEN` , `process.env.JWT_REFRESH_TOKEN_EXPIRY`
 
 
 ## Features
