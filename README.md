@@ -6,7 +6,7 @@
 Invoicer is a full-stack invoice generator application that helps small businesses to track their sales .
 
 ## Table of Contents
-- Installation
+- #Installation
 - Features 
 - Usage
 - API Documentation
