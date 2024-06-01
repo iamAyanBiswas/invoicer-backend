@@ -61,7 +61,7 @@ npm test
 ```
 
 
-##Contributing
+## Contributing
 
 We welcome contributions! If you’d like to contribute:
 
@@ -73,4 +73,5 @@ We welcome contributions! If you’d like to contribute:
 
 
 ## License
-Remember to replace placeholders (e.g., `Project Name`, `yourusername`, etc.) with your actual project details. Feel free to add more sections or customize it further based on your project's needs. Happy documenting! 😊🚀
+`invoicer-backend` by `iamAyanBiswas`(Ayan Biswas) is under MIT License. <br>
+Happy documenting! 😊🚀
