@@ -14,8 +14,14 @@ Invoicer is a full-stack invoice generator application that helps small business
 - <a href="#License">License<a/>
 
 ## Installation
-1. Clone this repository: `git clone https://github.com/iamAyanBiswas/invoicer-backend.git`
-2. Install dependencies: `npm install`
+1. Clone this repository:
+```bash
+git clone https://github.com/iamAyanBiswas/invoicer-backend.git
+```
+2. Install dependencies:
+```bash
+npm install
+```
 3. Set up environment variables.
 
 ## Features
