@@ -19,16 +19,16 @@ Invoicer is a full-stack invoice generator application that helps small business
 3. Set up environment variables.
 
 ## Features
-- • <b>Express.js</b> utilized for the backend .
-- • <b>MongoDB</b> serves as the database .
-- • <b>Mongoose</b> is employed as an Object Data Modeling (ODM) .
-- • Authentication and authorization are managed with <b>JSON Web Token (JWT)</b>.
-- • The <b>Mongodb aggregation pipeline</b> is used for filtering data from database.
-- • <b>Multer<b> is utilized for storing files .
-- • <b>Cloudinary</b> is utilized for storing files .
-- • Users will have access to a complete invoice generation history .
-- • Users will receive comprehensive tracking of their daily, weekly, and monthly sales .
-- • Passwords are hashed using <b>bcrypt</b> .
+-  <b>Express.js</b> utilized for the backend .
+-  <b>MongoDB</b> serves as the database .
+-  <b>Mongoose</b> is employed as an Object Data Modeling (ODM) .
+-  Authentication and authorization are managed with <b>JSON Web Token (JWT)</b>.
+-  The <b>Mongodb aggregation pipeline</b> is used for filtering data from database.
+-  <b>Multer<b> is utilized for storing files .
+-  <b>Cloudinary</b> is utilized for storing files .
+-  Users will have access to a complete invoice generation history .
+-  Users will receive comprehensive tracking of their daily, weekly, and monthly sales .
+-  Passwords are hashed using <b>bcrypt</b> .
 
 
 ## Usage
