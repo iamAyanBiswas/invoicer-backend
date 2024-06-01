@@ -41,9 +41,9 @@ npm install
 Provide a general description of how to use your backend. Include basic examples or code snippets.
 
 ## API-Documentation
-Document your API endpoints, request/response formats, and any authentication mechanisms. Consider using tools like Swagger or Postman for detailed API documentation.
-
-### Example API Routes
+Follow the installation process. <br>
+Run the server. 
+### API Routes
 - `POST /api/sign-up`: Create new user through sign-up process using <b>Email and Password </b>.
 - `POST /api/login`: Login user using <b>Email and Password </b>.
 - `POST /api/views`: Update page views.
@@ -57,7 +57,7 @@ Document your API endpoints, request/response formats, and any authentication me
 ## Examples
 Include additional examples or use cases related to your backend. Show how to perform common tasks or interact with your API.
 
-## Tests
+## Run
 Describe what tests are included and how to run them. Encourage contributors to add tests for new features.
 
 To run tests:
