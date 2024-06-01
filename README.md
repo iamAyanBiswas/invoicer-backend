@@ -58,13 +58,16 @@ Run the server.
 
 
 ## Run
-Describe what tests are included and how to run them. Encourage contributors to add tests for new features.
 
-To run tests:
+To run development:
 ```bash
-npm test
+npm run dev
 ```
 
+To run Start:
+```bash
+npm run start
+```
 
 ## Contributing
 
